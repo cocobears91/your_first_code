@@ -5,5 +5,5 @@ int main()
   {
     printf("Holberton\n");
   }
-  return 0;
+  return 32;
 }
